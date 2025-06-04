@@ -13,7 +13,7 @@
       "description": "Mostra quantas linhas foram recebidas no data.tables.DEFAULT",
       "iconUrl": "https://guirofeoli.github.io/lookerviz/icon.png",
       "resource": {
-        "js": "https://guirofeoli.github.io/lookerviz/index.js"
+        "js": "https://guirofeoli.github.io/lookerviz/index.html"
       }
     }
   ]
