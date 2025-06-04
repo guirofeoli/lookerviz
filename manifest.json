@@ -1,25 +1,25 @@
 {
-    "name": "Community Visualization",
-    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-    "organization": "Looker Studio Codelab",
-    "organizationUrl": "https://url",
-    "termsOfServiceUrl": "https://url",
-    "supportUrl": "https://url",
-    "packageUrl": "https://url",
-    "privacyPolicyUrl": "https://url",
-    "description": "Community Visualization Codelab",
-    "devMode": true,
-    "components": [
-        {
-            "id": "tableChart",
-            "name": "Table",
-            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
-            "description": "A simple table chart.",
-            "resource": {
-                "js": "https://raw.githubusercontent.com/guirofeoli/lookerviz/refs/heads/main/viz-codelab-src.js",   
-                "config": "https://raw.githubusercontent.com/guirofeoli/lookerviz/refs/heads/main/viz-codelab.json",
-                "css": "https://raw.githubusercontent.com/guirofeoli/lookerviz/refs/heads/main/viz-codelab.css"
-            }
-        }
-    ]
+  "name": "Community Visualization",
+  "organization": "guirofeoli",
+  "organizationUrl": "https://guirofeoli.dev",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+  "packageUrl": "https://guirofeoli.dev",
+  "supportUrl": "https://github.com/guirofeoli/lookerviz",
+  "termsOfServiceUrl": "https://guirofeoli.dev/tos",
+  "privacyPolicyUrl": "https://guirofeoli.dev/privacy",
+  "description": "Community Visualization Codelab",
+  "devMode": true,
+  "components": [
+    {
+      "id": "GuiChart123",
+      "name": "Hello Viz",
+      "description": "Um exemplo de visualização com container e texto",
+      "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+      "resource": {
+        "js": "https://raw.githubusercontent.com/guirofeoli/lookerviz/main/viz-codelab-src.js",
+        "config": "https://raw.githubusercontent.com/guirofeoli/lookerviz/main/viz-codelab.json",
+        "css": "https://raw.githubusercontent.com/guirofeoli/lookerviz/main/viz-codelab.css"
+      }
+    }
+  ]
 }
