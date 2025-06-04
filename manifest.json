@@ -1,9 +1,20 @@
 {
   "name": "Visualização Personalizada - GitHub Pages",
-  "dataStudio": {
-    "componentId": "custom-viz-github",
-    "components": {
-      "viz": "https://guirofeoli.github.io/lookerviz/index.html"
+  "organization": "guirofeoli",
+  "description": "Visualização exemplo com contagem de linhas",
+  "logoUrl": "https://guirofeoli.github.io/lookerviz/icon.png",
+  "packageUrl": "https://guirofeoli.github.io/lookerviz/",
+  "supportUrl": "https://github.com/guirofeoli/lookerviz",
+  "devMode": true,
+  "components": [
+    {
+      "id": "custom-viz-github",
+      "name": "Contador de Linhas",
+      "description": "Mostra quantas linhas foram recebidas no data.tables.DEFAULT",
+      "iconUrl": "https://guirofeoli.github.io/lookerviz/icon.png",
+      "resource": {
+        "js": "https://guirofeoli.github.io/lookerviz/index.js"
+      }
     }
-  }
+  ]
 }
