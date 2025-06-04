@@ -1,0 +1,9 @@
+{
+  "name": "Visualização Personalizada - GitHub Pages",
+  "dataStudio": {
+    "componentId": "custom-viz-github",
+    "components": {
+      "viz": "https://guirofeoli.github.io/lookerviz/index.js"
+    }
+  }
+}
